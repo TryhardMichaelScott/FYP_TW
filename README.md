@@ -21,9 +21,9 @@ TasteVenture 是一個為熱愛美食與旅遊的人所打造的社群平台。
 
 PHP 8+
 
-MySQL / MariaDB
+MySQL
 
-Apache / Nginx（建議使用 XAMPP 或 WAMP）
+Apache / Nginx（建議使用 XAMPP）
 
 瀏覽器（Chrome / Edge）
 
